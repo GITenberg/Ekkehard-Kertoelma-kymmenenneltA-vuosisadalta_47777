@@ -1,4 +1,8 @@
 _repo: Ekkehard-Kertoelma-kymmenenneltA-vuosisadalta_47777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scheffel, Joseph Victor von
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35144
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Viktor_von_Scheffel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47777#Ekkehard-Kertoelma-kymmenenneltA-vuosisadalta
 gutenberg_issued: '2014-12-24'
 gutenberg_type: Text
 identifiers:
